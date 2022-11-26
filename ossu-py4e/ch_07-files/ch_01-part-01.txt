@@ -1,0 +1,25 @@
+Integrated cir
+cuits or ICs fo
+r short (sometimes ju
+st referred to as "chips") 
+are specialized circuits that serv
+e a huge variety of purp
+oses, such as contr
+olling a robot's mo
+tors or making LE
+Ds respond to m
+usic. Many ICs c
+ome in something called a dual in-line package, or DIP, meaning they have two parallel rows of pins. The gap 
+in the middle o
+f a breadboard (between columns 
+E a
+nd F) is ju
+st the ri
+ght width f
+or an IC t
+o fit, strad
+dling the gap, w
+ith one set of pi
+ns in column
+ E, and one set 
+ of pins in column F.
